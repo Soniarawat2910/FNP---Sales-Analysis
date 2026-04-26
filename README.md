@@ -57,7 +57,7 @@ The dataset includes the following fields:
 
 ## 📷 Dashboard Preview
 
-![fnp dashboard](fnp%20dashboard.xlsx)
+![fnp dashboard](project%20file/fnp%20dashboard.xlsx)
 
 ## 📊 Dashboard KPIs
 
