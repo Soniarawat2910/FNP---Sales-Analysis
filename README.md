@@ -22,20 +22,13 @@ The main objectives of this project are:
 
 ## 📁 Dataset Description
 
-Here using 2 CSV FILES 
+Here using 3 CSV FILES 
 * customer file 
 * products file
-  
-The dataset includes the following fields:
+* order file
 
-* Order Date
-* Delivery Date
-* City
-* Occasion (Festival/Event)
-* Product Category
-* Product Name
-* Revenue (Sales Amount)
-* Order Details
+![Relation Diagram](project%20file/Relation%20Diagram.png)
+  
 
 ---
 
@@ -58,7 +51,7 @@ The dataset includes the following fields:
 
 ## 📷 Dashboard Preview
 
-![FNP](project%20file/FNP.png)
+![FNP image](project%20file/FNP%20image.png)
 
 
 
